@@ -1,0 +1,13 @@
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu\WindowsFormsApp1\ClassSolution\obj\Debug\ClassSolution.csproj.AssemblyReference.cache
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu\WindowsFormsApp1\ClassSolution\obj\Debug\ClassSolution.csproj.CoreCompileInputs.cache
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu\WindowsFormsApp1\ClassSolution\bin\Debug\ClassSolution.exe.config
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu\WindowsFormsApp1\ClassSolution\bin\Debug\ClassSolution.pdb
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu\WindowsFormsApp1\ClassSolution\obj\Debug\ClassSolution.exe
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu\WindowsFormsApp1\ClassSolution\obj\Debug\ClassSolution.pdb
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu - Kopya\WindowsFormsApp1\ClassSolution\bin\Debug\ClassSolution.exe.config
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu - Kopya\WindowsFormsApp1\ClassSolution\bin\Debug\ClassSolution.exe
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu - Kopya\WindowsFormsApp1\ClassSolution\bin\Debug\ClassSolution.pdb
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu - Kopya\WindowsFormsApp1\ClassSolution\obj\Debug\ClassSolution.csproj.AssemblyReference.cache
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu - Kopya\WindowsFormsApp1\ClassSolution\obj\Debug\ClassSolution.csproj.CoreCompileInputs.cache
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu - Kopya\WindowsFormsApp1\ClassSolution\obj\Debug\ClassSolution.exe
+C:\Users\Mert Baydemir\OneDrive\Masaüstü\Akılı ev otomosyonu - Kopya\WindowsFormsApp1\ClassSolution\obj\Debug\ClassSolution.pdb
